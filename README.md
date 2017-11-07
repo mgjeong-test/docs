@@ -1,8 +1,8 @@
 # docs
-documents for multi purpose.
+General description of my projects and repositories.
 
 # Repository descriptions
-EdgeX Foundry components. ( will be added soon )
+## EdgeX Foundry components. ( will be added soon )
 - OPC UA Microservices
 - Deployement Master
 - Deploymment Slave
